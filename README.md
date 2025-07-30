@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-This folder contains my daily solutions to LeetCode problems.
+This folder includes my Leetcode contest and practice solutions.
 
 📌 File Naming:  
 `<problem_number>_<problem_name>.cpp`  
