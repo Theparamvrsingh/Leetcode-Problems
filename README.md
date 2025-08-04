@@ -1,0 +1,2 @@
+Collections of Leetcode Problems I solved , with proper description readme and solution. I have explained the approach behind the Problem, so you may refer to readme if 
+need explaination for the solution.
